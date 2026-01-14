@@ -22,11 +22,7 @@ I'm a Full-Stack Developer passionate about crafting impactful solutions, buildi
 ### 🔭 Current Focus
 
 * 🔭 **Currently working on:** Advanced Full-stack applications using **Next.js** and **Laravel API**.
-* 🌱 **Currently learning:** Serverless architectures and Deep Learning basics.
-* 👯 **Looking to collaborate on:** Open-source Laravel packages or React components.
+* 🌱 **Learning:** Advanced system architecture and exploring Cloud services (AWS/Azure).
+* 👯 **Looking to collaborate on:** Open-source Laravel packages or NextJS components.
 * 💬 **Ask me about:** PHP optimization, React hooks, or database schema design.
 
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
