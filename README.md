@@ -45,12 +45,13 @@ I craft end-to-end solutions with clean architecture, intuitive UIs, and reliabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jommel1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jommel's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jommel1998&theme=tokyonight&hide_border=true" alt="Jommel's Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jommel1998&theme=tokyonight" alt="Jommel's GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jommel1998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jommel1998&theme=tokyonight" alt="Repos Per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jommel1998&theme=tokyonight" alt="Most Commit Language" width="48%" />
 </p>
 
 ---
